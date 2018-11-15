@@ -12,3 +12,9 @@ With that said, the research posted here is intentionally public and free of con
   
 * Asset Class Relationships with Growth Inflation
   *  The Jupyter notebook uses the data from Inflation and Growth Research to assess the relationship of major asset classes with Growth and Inflation surprises.
+
+* Levered ETFs
+  *  In this notebook I examine the expected returns of a levered compounded process that is meant to represent levered etfs. I then analyze the empirical returns of levered etfs to see if they match the returns of levered indices.
+  
+* Diversified Beta
+  *  I create a simple, diversified, and levered portfolio meant to be used for personal accounts. I show the research and historical results of a diversified portfolio of levered ETFs.
